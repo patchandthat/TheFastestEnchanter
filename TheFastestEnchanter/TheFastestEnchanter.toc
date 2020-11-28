@@ -1,0 +1,10 @@
+## Interface: 11305
+## Title: The Fastest Enchanter In Orgrimmar
+## Notes: If you want to make money, you need to be fast in this business
+## Version: 1.0
+## DefaultState: enabled
+## Author: Neffer-Razorgore
+
+embeds.xml
+
+TheFastestEnchanter.lua
